@@ -45,7 +45,7 @@ A multiple-line chart of total fares for each city type where each week is a pea
 2. Providing benefits and incentives to the company's drivers may encourage better rate control, which can subsequently improve service usage.
 3. Further analysis is recommended to collect data on the duration of rides, which would clarify the current rate-per-service; furthermore, estimates of the population of each city would delineate the appropriate number of drivers for each service region. 
 
-
+---
 
 
 
